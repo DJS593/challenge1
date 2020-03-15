@@ -188,6 +188,8 @@ p {
     font-size: 36px;
 }
 
+/* begin footer style */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +200,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* end footer style */

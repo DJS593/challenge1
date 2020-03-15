@@ -1,5 +1,5 @@
-#HTML CSS Git Challenge: Code Refactor
-## Goal is to refactor the HTML and CCS code provided by Horiseon
+## HTML CSS Git Challenge: Code Refactor
+### Goal is to refactor the HTML and CCS code provided by Horiseon
 - ensure code is functioning properly
 - use best practices for code: file structure, semantics and comments
 - provide an URL to site

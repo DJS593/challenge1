@@ -7,6 +7,5 @@
 
 (https://djs593.github.io/challenge/)
 
-![image](https://user-images.githubusercontent.com/61851131/76723209-bf48bf00-6703-11ea-85b6-20e1b0cd242e.png)
-
+![image](https://user-images.githubusercontent.com/61851131/76723395-5281f480-6704-11ea-8e73-d02a7dd1e412.png)
 
